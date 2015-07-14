@@ -1,0 +1,26 @@
+{
+  "name": "get-spatial-preposition",
+  "version": "1.0.0",
+  "description": "Given a word fragment, extracts the spatial preposition, if any are in it.",
+  "main": "get-spatial-preposition.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/get-spatial-preposition.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/get-spatial-preposition/issues"
+  },
+  "homepage": "https://github.com/jimkang/get-spatial-preposition",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "jsonfile": "^2.2.1"
+  }
+}
