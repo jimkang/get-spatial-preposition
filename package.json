@@ -1,6 +1,6 @@
 {
   "name": "get-spatial-preposition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given a word fragment, extracts the spatial preposition, if any are in it.",
   "main": "get-spatial-preposition.js",
   "scripts": {

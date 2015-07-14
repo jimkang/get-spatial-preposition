@@ -1,7 +1,7 @@
 get-spatial-preposition
 =======================
 
-Given a word fragment, extracts the spatial preposition, if any are in it. "spatial preposition" is a term I made up that means "a preposition that expresses a spatial relationship." For example, these are spatial prepositions:
+Given a word fragment, extracts the spatial preposition, if any are in it. "Spatial prepositions" are preposition that express a spatial relationship. For example, these are spatial prepositions:
 
 - on
 - inside
